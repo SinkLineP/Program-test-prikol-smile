@@ -2,3 +2,20 @@
     text-align: center;
 }
 
+#alert-yes {
+    border: none;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    background-color: limegreen;
+    color: white;
+}
+
+#alert-no {
+    border: none;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    background-color: rgb(202, 27, 27);
+    color: white;
+}

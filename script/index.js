@@ -22,3 +22,4 @@ no.addEventListener("click", () => {
 yes.addEventListener("click", () => {
     yesBtn()
 })
+
